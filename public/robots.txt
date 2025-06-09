@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://codigoqronlinegratis.com/sitemap.xml
+
+# Optimización para motores de búsqueda específicos
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Crawl-delay para evitar sobrecarga del servidor
+Crawl-delay: 1
+
+# Host principal
+Host: https://codigoqronlinegratis.com 

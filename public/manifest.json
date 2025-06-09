@@ -1,0 +1,46 @@
+{
+  "name": "Generador QR - Generador de Código QR Gratis Online",
+  "short_name": "Generador QR",
+  "description": "Genera códigos QR gratis y personalizados. Crear QR para URLs, WhatsApp, redes sociales y más. Sin límites ni registro.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#4F46E5",
+  "background_color": "#FFFFFF",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["utilities", "productivity", "business"],
+  "shortcuts": [
+    {
+      "name": "Generar QR URL",
+      "short_name": "URL QR",
+      "description": "Crear código QR para enlace web",
+      "url": "/?type=url",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Generar QR WhatsApp",
+      "short_name": "WhatsApp QR",
+      "description": "Crear código QR para WhatsApp",
+      "url": "/?type=whatsapp",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+} 
