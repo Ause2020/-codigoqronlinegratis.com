@@ -56,7 +56,7 @@ export default function GeneradorCodigoQR() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center space-x-2">
             <QrCode className="h-8 w-8 text-indigo-600" />
-            <h1 className="text-2xl font-bold text-gray-900">QR Master</h1>
+            <h1 className="text-2xl font-bold text-gray-900">Generador QR</h1>
           </div>
         </div>
       </header>
