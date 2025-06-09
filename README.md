@@ -30,7 +30,7 @@ Generador de códigos QR gratuito y profesional desarrollado con Next.js. Crea c
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/TU_USUARIO/codigoqronlinegratis.com.git
+git clone https://github.com/ejgr91/codigoqronlinegratis.com.git
 cd codigoqronlinegratis.com
 ```
 
@@ -140,9 +140,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-**Generador QR Team**
+**ejgr91**
 - Website: [codigoqronlinegratis.com](https://codigoqronlinegratis.com)
-- GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
+- GitHub: [@ejgr91](https://github.com/ejgr91)
 
 ## 🙏 Agradecimientos
 
