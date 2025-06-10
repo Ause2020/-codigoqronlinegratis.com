@@ -38,7 +38,6 @@ export const metadata: Metadata = {
     images: ["/og-image.jpg"],
   },
   alternates: {
-    canonical: "https://codigoqronlinegratis.com",
     languages: {
       "es-ES": "https://codigoqronlinegratis.com",
       "es-MX": "https://codigoqronlinegratis.com/mx",
