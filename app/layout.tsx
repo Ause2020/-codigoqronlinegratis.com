@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     description: "Genera códigos QR gratis online para URLs, texto, contactos y más. Sin registro requerido.",
     url: "https://codigoqronlinegratis.com",
     siteName: "Generador QR - CodigoQRonlineGratis.com",
-    locale: "es_ES",
+    locale: "es",
     type: "website",
     images: [
       {
@@ -39,10 +39,7 @@ export const metadata: Metadata = {
   },
   alternates: {
     languages: {
-      "es-ES": "https://codigoqronlinegratis.com",
-      "es-MX": "https://codigoqronlinegratis.com/mx",
-      "es-AR": "https://codigoqronlinegratis.com/ar",
-      "es-CO": "https://codigoqronlinegratis.com/co",
+      "es": "https://codigoqronlinegratis.com",
     },
   },
   verification: {
@@ -58,13 +55,13 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="es" dir="ltr">
+    <html lang="es">
       <head>
         <link rel="canonical" href="https://codigoqronlinegratis.com" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="geo.region" content="ES" />
         <meta name="geo.placename" content="España" />
-        <meta name="language" content="Spanish" />
+        <meta name="language" content="es" />
         <meta name="distribution" content="global" />
         <meta name="rating" content="general" />
         <meta name="theme-color" content="#4F46E5" />

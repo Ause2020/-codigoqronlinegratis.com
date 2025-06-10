@@ -56,7 +56,7 @@ export default function GeneradorCodigoQR() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center space-x-2">
             <QrCode className="h-8 w-8 text-indigo-600" />
-            <h1 className="text-2xl font-bold text-gray-900">Generador QR</h1>
+            <h2 className="text-2xl font-bold text-gray-900">Generador QR</h2>
           </div>
         </div>
       </header>
@@ -164,11 +164,11 @@ export default function GeneradorCodigoQR() {
         {/* Información SEO */}
         <div className="mt-16 bg-white rounded-lg shadow-lg p-8">
           <div className="text-center mb-8">
-            <h1 className="text-2xl font-bold text-gray-900">Generador QR</h1>
+            <h2 className="text-2xl font-bold text-gray-900">Generador QR</h2>
           </div>
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">
+          <h3 className="text-2xl font-bold text-gray-900 mb-4">
             Generador de Código QR Profesional y Gratuito
-          </h2>
+          </h3>
           <p className="text-gray-700 mb-4">
             <strong>CodigoQRonlineGratis.com</strong> es la herramienta líder en España y Latinoamérica para
             <strong> crear códigos QR gratis online</strong>. Nuestro generador de código QR permite crear códigos
